@@ -1,13 +1,14 @@
 {
   "name": "dingbat",
   "version": "1.0.0",
-  "description": "A scraper to see if the PS5 is in stock",
+  "description": "A service that notifies by email when products are in stock on Amazon, Best Buy, etc.",
   "main": "index.ts",
   "author": "Eric Halvorsen <viscousness@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "ts-node index.ts",
-    "build": "tsc && cp {.env,config.json,package.json} build/"
+    "build": "tsc --outDir build && cp .env config.json package.json build/",
+    "start:prod": "cd build && node ./index.js"
   },
   "devDependencies": {
     "@types/node": "^15.3.0",

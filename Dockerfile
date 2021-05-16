@@ -1,5 +1,6 @@
 FROM node:alpine as development
 
+WORKDIR /dingbat
 COPY package.json yarn.lock ./
 RUN yarn install
 CMD [ "yarn", "start" ]
@@ -10,5 +11,5 @@ COPY . $APP_HOME
 RUN yarn && yarn run build
 
 FROM build as production
-COPY --from=build /bin/dist /bin/dist
+COPY --from=build /build /build
 CMD [ "yarn", "run", "start:prod" ]

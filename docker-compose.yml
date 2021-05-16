@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  main:
+    build:
+      context: .
+      target: development
+    volumes:
+      - .:/dingbat
+      - node_modules:/dingbat/node_modules
+
+volumes:
+  node_modules: {}
