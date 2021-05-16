@@ -7,10 +7,10 @@ export class Amazon extends Adapter {
   }
 
   public parseResult($: CheerioAPI) {
-    return $('#availability span').first().text().trim();
+    return $("#availability span").first().text().trim();
   }
 
   public validateResult(result: string) {
-    return result.startsWith('Currently unavailable');
+    return !result.startsWith("Currently unavailable");
   }
 }
