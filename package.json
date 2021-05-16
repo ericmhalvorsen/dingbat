@@ -1,0 +1,25 @@
+{
+  "name": "dingbat",
+  "version": "1.0.0",
+  "description": "A scraper to see if the PS5 is in stock",
+  "main": "index.ts",
+  "author": "Eric Halvorsen <viscousness@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc && cp {.env,config.json,package.json} build/"
+  },
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "@types/nodemailer": "^6.4.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "dotenv": "^9.0.2",
+    "nodemailer": "^6.6.0",
+    "winston": "^3.3.3"
+  }
+}

@@ -1,0 +1,127 @@
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"ps5_disc","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Something went wrong, handler not found for ps5_disc and Amazon.","level":"error"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Something went wrong, handler not found for ps5_disc and Amazon.","level":"error"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"ps5_disc","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Scraping for product: ps5_disc","level":"info"}
+{"message":"Available Adapters: Amazon","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":{"ps5_disc":{"Amazon":"https://www.amazon.com/dp/B08FC5L3RG"}},"level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"ps5_disc\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"No result, continuing","level":"info"}
+{"message":"Checking Amazon for ps5_disc","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"ps5_disc\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for ps5_disc...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for ps5_disc","level":"info"}
+{"message":"\n      Product was found!!! But email cannot be sent because email was not configured correctly.\n      Make sure to set SMTP_EMAIL, SMTP_PASSWORD, and EMAIL_RECIPIENTS in your .env file.\n    ","level":"warn"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"ps5_disc\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for ps5_disc...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for ps5_disc","level":"info"}
+{"message":"\n      Product was found!!! But email cannot be sent because email was not configured correctly.\n      Make sure to set SMTP_EMAIL, SMTP_PASSWORD, and EMAIL_RECIPIENTS in your .env file.\n    ","level":"warn"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"ps5_disc\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"ps5_disc\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for ps5_disc...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for ps5_disc","level":"info"}
+{"message":"Message sent: [object Promise]","level":"info"}
+{"message":"Checking Amazon for ps5_disc...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for ps5_disc","level":"info"}
+{"message":"Message sent: [object Promise]","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"PS5 Disc Edition\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for PS5 Disc Edition","level":"info"}
+{"message":"Message sent: [object Promise]","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"PS5 Disc Edition\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for PS5 Disc Edition","level":"info"}
+{"message":"Message sent: [object Object]","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"PS5 Disc Edition\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for PS5 Disc Edition","level":"info"}
+{"message":"Message sent: {\"accepted\":[\"viscousness@gmail.com\"],\"rejected\":[],\"envelopeTime\":144,\"messageTime\":569,\"messageSize\":652,\"response\":\"250 2.0.0 OK  1621206507 o78sm9340011qke.98 - gsmtp\",\"envelope\":{\"from\":\"Dingbat @ dingbat\",\"to\":[\"viscousness@gmail.com\"]},\"messageId\":\"<247207f3-41ff-573a-75b1-08f2d8d1930b@ dingbat>\"}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Dingbat starting up. Notifying for the following products: ","level":"info"}
+{"message":"{\"PS5 Disc Edition\":{\"Amazon\":\"https://www.amazon.com/dp/B08FC5L3RG\"}}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
+{"message":"Amazon returned something other than the default status - sending email notification for PS5 Disc Edition","level":"info"}
+{"message":"Message sent: {\"accepted\":[\"viscousness@gmail.com\"],\"rejected\":[],\"envelopeTime\":145,\"messageTime\":516,\"messageSize\":629,\"response\":\"250 2.0.0 OK  1621206649 w4sm9053998qki.57 - gsmtp\",\"envelope\":{\"from\":\"\",\"to\":[\"viscousness@gmail.com\"]},\"messageId\":\"<29b9ca95-9d27-4171-d56b-2f5f401718c1@azimuth.local>\"}","level":"info"}
+{"message":"Checking Amazon for PS5 Disc Edition...","level":"info"}
