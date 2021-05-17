@@ -8,8 +8,8 @@ const { host, port, email, password, recipients } = smtpSettings;
 const mailer = () =>
   nodemailer.createTransport({
     host,
-    port: port as number,
-    secure: true, // If port is 465
+    port,
+    secure: port === 465 ? true : false,
     auth: {
       user: email,
       pass: password

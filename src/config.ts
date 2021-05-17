@@ -4,7 +4,7 @@ export const smtpSettings = {
   email: process.env.SMTP_EMAIL,
   password: process.env.SMTP_PASSWORD,
   host: process.env.SMTP_HOST || "smtp.gmail.com",
-  port: process.env.SMTP_PORT || 465,
+  port: parseInt(process.env.SMTP_PORT || "") || 465,
   recipients: process.env.EMAIL_RECIPIENTS || process.env.SMTP_EMAIL
 };
 export default config;
