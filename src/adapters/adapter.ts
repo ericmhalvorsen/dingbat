@@ -6,7 +6,7 @@ import logger from "../logger";
 export abstract class Adapter {
   productName: string;
 
-  constructor(product: string) {
+  public constructor(product: string) {
     this.productName = product || "PS5 Disc Edition";
   }
 
@@ -17,6 +17,7 @@ export abstract class Adapter {
       const response = await get(this.url());
       const $ = cheerio.load(response.data)
       result = this.parseResult($);
+      logger.info(`${this.displayName} ${this.productName} result: ${result}`)
     } catch (error) {
       logger.error(error.message);
     };

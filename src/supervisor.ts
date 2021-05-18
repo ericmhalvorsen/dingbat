@@ -16,10 +16,9 @@ export const start = async (options: Record<string, unknown> = {}) => {
           logger.info(`Checking ${adapter} for ${product}...`)
           handler.check().then((result: boolean) => {
             if (result) {
+              logger.info("SUCCESS!")
               logger.info(`${adapter} returned something other than the default status - sending email notification for ${product}`)
               notify(handler)
-            } else {
-              logger.info("Unavailable, sorry")
             }
           })
         } else {
